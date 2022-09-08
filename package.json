@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dat.gui": "^0.7.9",
+    "parcel-bundler": "^1.12.5",
     "three": "^0.144.0"
   }
 }
